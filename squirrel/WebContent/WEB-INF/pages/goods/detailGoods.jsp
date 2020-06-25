@@ -265,7 +265,7 @@
         <h2 class="item-price">${goodsExtend.goods.price}</h2>
         <h2 class="publisher-info-title">原价：<span style="text-decoration:line-through;">${goodsExtend.goods.realPrice}</span></h2>
         <div class="item-public-info">
-            <p class="bargain">可讲价</p>
+            <p class="bargain">可小刀</p>
             <p>
                 <i class="iconfont"></i>
                 <em class="item-location">涉外学院</em>

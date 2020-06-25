@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-	<title>Squirrel后台管理系统</title>
+	<title>南方姑娘后台管理系统</title>
 	<script src="../js/jquery-3.1.1.min.js"></script>
 	<link rel="stylesheet" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" href="../css/jquery.bootgrid.min.css">
