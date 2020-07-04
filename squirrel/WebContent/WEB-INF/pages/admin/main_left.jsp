@@ -46,13 +46,13 @@
 					<%-- <li><a href="<%=basePath%>admin/purseList?pageNum=1">审核管理</a></li> --%>
 				</ul>
 			</li>
-			<li class="submenu"><a href="#"><i class="icon icon-fullscreen"></i>
+			<%-- <li class="submenu"><a href="#"><i class="icon icon-fullscreen"></i>
 					<span>系统设置</span> </a>
 				<ul>
 					<li><a href="<%=basePath%>admin/info">">个人信息</a></li>
 					<li><a href="<%=basePath%>admin/modify">">修改密码</a></li>
 				</ul>
-			</li>
+			</li>--%>
 		</ul>
 	</div>
 </body>

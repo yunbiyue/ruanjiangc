@@ -45,9 +45,9 @@
 					</a></li>
 					<li class="bg_ly"><a href="<%=basePath%>admin/purseList?pageNum=1"> 
 					<i class="icon-inbox"></i>钱包管理
-					</a></li>
+					<%-- </a></li>
 					<li class="bg_ls"><a href=""> <i class="icon-fullscreen"></i>系统设置
-					</a></li>
+					</a></li> --%>
 				</ul>
 			</div>
 		</div>

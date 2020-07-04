@@ -137,13 +137,13 @@
                 <c:if test="${empty cur_user}">
                     <li class="publish-btn">
                        <button onclick="showLogin()" data-toggle="tooltip" 
-                                title="您需要先登录哦！" class="red lighten-1 waves-effect waves-light btn" 	>
+                                title="您需要先登录哦！" class="green lighten-1 waves-effect waves-light btn" 	>
                             我要发布</button>
                     </li>
                 </c:if>
                 <c:if test="${!empty cur_user}">
                     <li class="publish-btn">
-                        <button data-position="bottom" class="red lighten-1 waves-effect waves-light btn">
+                        <button data-position="bottom" class="green lighten-1 waves-effect waves-light btn">
                             <a href="<%=basePath%>goods/publishGoods">我要发布</a>
                         </button>
                     </li>
